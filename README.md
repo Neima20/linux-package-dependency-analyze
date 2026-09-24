@@ -4,6 +4,8 @@ Outil en Python qui analyse les paquets installés sur un système Linux
 (Debian/Ubuntu), construit un graphe de leurs dépendances, identifie
 les paquets essentiels vs optionnels, et génère une visualisation.
 
+![Graphe de dépendances de paquets](dependencies.png)
+
 ## Prérequis
 
 - Un système Linux basé sur Debian/Ubuntu (utilise `dpkg` et `apt-cache`)
